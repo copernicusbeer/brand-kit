@@ -15,3 +15,6 @@ Shown below are examples for how you _should_ and _should not_ use our brand log
 - Don't add gradients or effects
 - Don't place the logos on busy areas.
 
+## Timestamps
+
+In the folder assets/timestamps the assets are timestamped using the opentimestamp.org website. The .ots file can be used to verify the timestamp.
